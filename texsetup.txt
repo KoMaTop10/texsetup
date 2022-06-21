@@ -1,4 +1,4 @@
-        //latex workshop
+{        //latex workshop
     "latex-workshop.view.pdf.viewer": "tab",
     "latex-workshop.message.update.show": false,
     "latex-workshop.latex.tools": [
@@ -36,3 +36,4 @@
         "jupyter-notebook": "left"
     }
         //latex workshop
+}
